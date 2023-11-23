@@ -4,7 +4,7 @@ var PalenqueGeoJSON = {
       {
         "type": "Feature",
         "properties": {
-            title: "Palenque: Un rincón de África en América",
+            title: "Palenque: Un rincón de África en Colombia",
             audio_url: "https://selevari.github.io/sociologiasonidos/audio/palenque.wav"
         },
         "geometry": {
